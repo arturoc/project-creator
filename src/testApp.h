@@ -27,4 +27,6 @@ class testApp : public ofBaseApp{
 		CBWinProject winProject;
 		visualStudioProject vsProject;
 		xcodeProject xcProject;
+
+		string projectPath;
 };
